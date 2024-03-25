@@ -2970,5 +2970,34 @@
         "icono": "https://static.wikia.nocookie.net/logopedia/images/a/af/Red_UNO_1985-0.png"
       }
     ]
+    },
+		 {
+    "name": "🔞PACK ADULTOS",
+    "samples": [
+ 
+      {
+        "name": "VENUS",
+        "uri": "https://gtechtecnologia.com/telelatino/play/126.m3u8",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Canal_Venus_logo.svg/2560px-Canal_Venus_logo.svg.png"
+      },
+      {
+        "name": "PLAYBOY TV",
+        "uri": "https://gtechtecnologia.com/telelatino/play/145.m3u8",
+        "icono": "https://logowik.com/content/uploads/images/playboy8203.jpg"
+      },
+      {
+        "name": "SEXTREME",
+        "uri": "https://gtechtecnologia.com/telelatino/play/144.m3u8",
+        "icono": "https://static.wikia.nocookie.net/tvcable/images/6/69/OM04E.jpg/revision/latest/scale-to-width-down/287?cb=20110531221305&path-prefix=es"
+      },
+      {
+        "name": "HUSTLER TV",
+        "uri": "https://gtechtecnologia.com/telelatino/play/124.m3u8",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/HustlerTV.svg/2560px-HustlerTV.svg.png"
+      }
+
+    ]
     }
+  
+
   
