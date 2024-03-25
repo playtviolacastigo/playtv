@@ -1328,11 +1328,15 @@
     "name": "📺PLUTO TV",
     "samples": [
        {
-        "name": "GOL PLAY TV 1",
+        "name": "GOL PLAY TV 1 HD",
         "uri": "https://rpn3.bozztv.com/ssh101/ssh101/ddbehg/playlist.m3u8",
         "icono": "http://imgfz.com/i/qvczMVJ.png"
       },
-     
+         {
+        "name": "GOL PLAY TV 1 SD",
+        "uri": "https://rpn3.bozztv.com/ssh101/ssh101/ncjkdjkkdkhd/playlist.m3u8",
+        "icono": "http://imgfz.com/i/qvczMVJ.png"
+      },
        {
         "name": "GOL PLAY TV 2",
         "uri": "https://rpn3.bozztv.com/ssh101/ssh101/nxhhbgddd/playlist.m3u8",
