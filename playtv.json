@@ -1486,8 +1486,8 @@
 {
         "name": "🎥PACK UNIVERSAL Y MOVISTAR",
         "samples": [
-
- {
+   
+     {
         "name": "MOVISTAR ACCION",
         "uri": "https://cajablanca.dedyn.io/movistar/juanorange/4542/manifest.mpd",
         "drm_scheme": "clearkey",
@@ -1495,8 +1495,13 @@
         "icono": "https://ibb.co/Rg4Sz7p"
       },
        {
+        "name": "MOVISTAR PLUS",
+        "uri": "http://live.budtvlight.com:25461/IvanKalkbrenner/YATQpN2TmwPT/40374",
+        "icono": "http://imgfz.com/i/QaVsWnk.png"
+      },
+     {
         "name": "MOVISTAR ACCION",
-        "uri": "https://gtechtecnologia.com/telelatino/play/295.m3u8",
+        "uri": "http://live.budtvlight.com:25461/IvanKalkbrenner/YATQpN2TmwPT/80628",
         "icono": "https://ibb.co/Rg4Sz7p"
       },
      {
