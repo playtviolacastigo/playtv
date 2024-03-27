@@ -1489,31 +1489,9 @@
     ]
   },
 {
-        "name": "🎥PACK UNIVERSAL Y MOVISTAR",
+        "name": "🎥PACK UNIVERSAL",
         "samples": [
    
-     {
-        "name": "MOVISTAR ACCION",
-        "uri": "https://cajablanca.dedyn.io/movistar/juanorange/4542/manifest.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=95af74d5fb594fd58b856a6d743cf77f&key=6494036d424881de28c0a7c9f3a1a19a",
-        "icono": "https://ibb.co/Rg4Sz7p"
-      },
-       {
-        "name": "MOVISTAR PLUS",
-        "uri": "http://live.budtvlight.com:25461/IvanKalkbrenner/YATQpN2TmwPT/40374",
-        "icono": "http://imgfz.com/i/QaVsWnk.png"
-      },
-     {
-        "name": "MOVISTAR ACCION",
-        "uri": "http://live.budtvlight.com:25461/IvanKalkbrenner/YATQpN2TmwPT/80628",
-        "icono": "https://ibb.co/Rg4Sz7p"
-      },
-     {
-        "name": "MOVISTAR COMEDIA",
-        "uri": "http://offshore.lat:8080/live/crueltv2023@/eY7x2kzuHt/1167.m3u8",
-        "icono": "http://imgfz.com/i/dschbKm.jpeg"
-      },
  {
     "name": "UNIVERSAL CINEMA FLOW",
     
