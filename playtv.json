@@ -15,23 +15,7 @@
         "icono": "https://cdn.getcrowder.com/images/d0fb71e7-bd70-4cae-bc57-0a2df6216cc8-diseo-sin-ttulo-6.png"
       }
     ]
-  [
-  {
-    "name": "SOLO EVENTOS",
-    "samples": [
-      {
-        "name": "GUATEMALA VS VENEZUELA",
-        "uri": "https://cdn.natanael.live/live/3_scofield1.m3u8",
-        "icono": "http://imgfz.com/i/NE6zfpV.jpeg"
-      },
-      {
-        "name": "EVENTOS 2",
-        "uri": "https://chromecast.cvattv.com.ar/live/c4eds/Eventos2_PY/SA_Live_dash_enc/Eventos2_PY.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=0900ce66b82de0fd07aa8f12a48f29a2&key=e5556dba688fda637374ab5c87d7cda6",
-        "icono": "https://cdn.getcrowder.com/images/d0fb71e7-bd70-4cae-bc57-0a2df6216cc8-diseo-sin-ttulo-6.png"
-      }
-    ]
+ 
   },
   {
     "name": "⚽ DEPORTES NACIONALES E INTERNACIONALES",
