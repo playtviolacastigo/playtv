@@ -1,27 +1,33 @@
 [
     {
-    "name": "🔞PACK ADULTOS",
+    "name": "PACK MOVISTAR VIP",
     "samples": [
- 
-      {
-        "name": "VENUS",
-        "uri": "https://gtechtecnologia.com/telelatino/play/126.m3u8",
-        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Canal_Venus_logo.svg/2560px-Canal_Venus_logo.svg.png"
+     {
+        "name": "MOVISTAR DRAMA",
+        "uri": "http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/111746",
+        "icono": "http://imgfz.com/i/XSZknJ1.png"
       },
-      {
-        "name": "PLAYBOY TV",
-        "uri": "https://gtechtecnologia.com/telelatino/play/145.m3u8",
-        "icono": "https://logowik.com/content/uploads/images/playboy8203.jpg"
+	{
+          "name": "MOVISTAR ACCION",
+        "uri": "https://cajablanca.dedyn.io/movistar/juanorange/4542/manifest.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=95af74d5fb594fd58b856a6d743cf77f&key=6494036d424881de28c0a7c9f3a1a19a",
+        "icono": "https://ibb.co/Rg4Sz7p"
       },
-      {
-        "name": "SEXTREME",
-        "uri": "https://gtechtecnologia.com/telelatino/play/144.m3u8",
-        "icono": "https://static.wikia.nocookie.net/tvcable/images/6/69/OM04E.jpg/revision/latest/scale-to-width-down/287?cb=20110531221305&path-prefix=es"
+       {
+        "name": "MOVISTAR ESTRENO",
+        "uri": "http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/111742",
+        "icono": "http://imgfz.com/i/QaVsWnk.png"
       },
-      {
-        "name": "HUSTLER TV",
-        "uri": "https://gtechtecnologia.com/telelatino/play/124.m3u8",
-        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/HustlerTV.svg/2560px-HustlerTV.svg.png"
+     {
+        "name": "MOVISTAR ACCION",
+        "uri": "http://live.budtvlight.com:25461/IvanKalkbrenner/YATQpN2TmwPT/80628",
+        "icono": "https://ibb.co/Rg4Sz7p"
+      },
+     {
+        "name": "MOVISTAR COMEDIA",
+        "uri": "http://offshore.lat:8080/live/crueltv2023@/eY7x2kzuHt/1167.m3u8",
+        "icono": "http://imgfz.com/i/dschbKm.jpeg"
       }
 
     ]
