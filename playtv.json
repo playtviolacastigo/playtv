@@ -107,6 +107,11 @@
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=3e1c0dd8d951335d9d8c534d29277c91&key=978f073eee32606a3f2544306fb1a7b3",
         "icono": "http://imgfz.com/i/DNuzBkP.png"
       }, 
+	         {
+        "name": "DIRECTV SPORTS 1 M3U8",
+        "uri": "https://gtechtecnologia.com/telelatino/play/20.m3u8",
+        "icono": "http://imgfz.com/i/DNuzBkP.png"
+      },
      {
         "name": "DIRECTV 2 MPD",
         "uri": "https://gtechtecnologia.com/dtv/444952454354562053504f5254532032204844.mpd",
@@ -114,11 +119,7 @@
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=c44d52b11dce3875ad2765c9d469075b&key=af4ba31c1324eb92ac88463f7bd941d5",
         "icono": "http://imgfz.com/i/zsUV8wc.png"
       }, 
-     {
-        "name": "DIRECTV SPORTS 1",
-        "uri": "https://gtechtecnologia.com/telelatino/play/20.m3u8",
-        "icono": "http://imgfz.com/i/DNuzBkP.png"
-      },
+
 
        {
         "name": "DIRECTV 2 MPD",
