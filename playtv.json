@@ -1318,27 +1318,7 @@
 	{
     "name": "📺PLUTO TV",
     "samples": [
-       {
-        "name": "GOL PLAY TV 1 HD",
-        "uri": "https://rpn3.bozztv.com/ssh101/ssh101/ddbehg/playlist.m3u8",
-        "icono": "http://imgfz.com/i/qvczMVJ.png"
-      },
-         {
-        "name": "GOL PLAY TV 1 SD",
-        "uri": "https://rpn3.bozztv.com/ssh101/ssh101/ncjkdjkkdkhd/playlist.m3u8",
-        "icono": "http://imgfz.com/i/qvczMVJ.png"
-      },
-       {
-        "name": "GOL PLAY TV 2",
-        "uri": "https://rpn3.bozztv.com/ssh101/ssh101/ratitaaa/playlist.m3u8",
-        "icono": "http://imgfz.com/i/NA9dfxy.png"
-	    },
-	    
-	    {
-        "name": "GOL PLAY TV 3",
-        "uri": "https://rpn3.bozztv.com/ssh101/ssh101/bvnvgsfsfsgus/playlist.m3u8",
-        "icono": "http://imgfz.com/i/C3M7PrV.png"
-	    },
+       
       {
         "name": "PLUTO TV ACCION",
         "uri": "http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/561d7d484dc7c8770484914a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus",
@@ -2937,6 +2917,28 @@
  {
     "name": "🇧🇴BOLIVIA",
     "samples": [
+      {
+        "name": "GOL PLAY TV 1 HD",
+        "uri": "https://rpn3.bozztv.com/ssh101/ssh101/ddbehg/playlist.m3u8",
+        "icono": "http://imgfz.com/i/qvczMVJ.png"
+      },
+         {
+        "name": "GOL PLAY TV 1 SD",
+        "uri": "https://rpn3.bozztv.com/ssh101/ssh101/ncjkdjkkdkhd/playlist.m3u8",
+        "icono": "http://imgfz.com/i/qvczMVJ.png"
+      },
+       {
+        "name": "GOL PLAY TV 2",
+        "uri": "https://rpn3.bozztv.com/ssh101/ssh101/ratitaaa/playlist.m3u8",
+        "icono": "http://imgfz.com/i/NA9dfxy.png"
+	    },
+	    
+	    {
+        "name": "GOL PLAY TV 3",
+        "uri": "https://rpn3.bozztv.com/ssh101/ssh101/bvnvgsfsfsgus/playlist.m3u8",
+        "icono": "http://imgfz.com/i/C3M7PrV.png"
+	    },
+	    
       {
         "name": "RedADvenir Bolivia",
         "uri": "https://streamer1.streamhost.org/salive/GMIredadvenirh/chunklist_w1976177922.m3u8",
