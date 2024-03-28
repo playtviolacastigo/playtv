@@ -141,9 +141,11 @@
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=f19c3a8c638d52c2ab77b9566bcb2996&key=7400a9f905f172d5d74d7dc440724c8e",
         "icono": "http://imgfz.com/i/2iUaFyQ.png"
       },
-      {
-        "name": "DIRECTV PLUS",
-        "uri": "http://offshore.lat:8080/crueltv2023@/eY7x2kzuHt/1244",
+       {
+        "name": "DIRECTV PLUS MPD OPCION 2",
+        "uri": "https://1071-abc-da-mt.dtvott.com/dash_live_1071/dash/1071_DIRECTV_SPORTS_PLUS-video=3838800-102696151778580.dash-audio_72882_spa=72400-82156921711568.mpd'",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=f19c3a8c638d52c2ab77b9566bcb2996&key=7400a9f905f172d5d74d7dc440724c8e",
         "icono": "http://imgfz.com/i/2iUaFyQ.png"
       },
        {
