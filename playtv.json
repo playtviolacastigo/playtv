@@ -2921,19 +2921,19 @@
     "samples": [
       {
         "name": "GOL PLAY TV 1",
-        "uri": "https://rpn3.bozztv.com/ssh101/ssh101/testexxxxx/playlist.m3u8",
+        "uri": "https://rpn3.bozztv.com/ssh101/ssh101/testexxxxxx/playlist.m3u8",
         "icono": "http://imgfz.com/i/qvczMVJ.png"
       },
     
        {
         "name": "GOL PLAY TV 2",
-        "uri": "https://rpn3.bozztv.com/ssh101/ssh101/testexxxxxx/playlist.m3u8",
+        "uri": "https://rpn3.bozztv.com/ssh101/ssh101/testexxxx/playlist.m3u8",
         "icono": "http://imgfz.com/i/NA9dfxy.png"
 	    },
 	    
 	    {
         "name": "GOL PLAY TV 3",
-        "uri": "https://rpn3.bozztv.com/ssh101/ssh101/testexxxx/playlist.m3u8",
+        "uri": "https://rpn3.bozztv.com/ssh101/ssh101/testexxxxx/playlist.m3u8",
         "icono": "http://imgfz.com/i/C3M7PrV.png"
 	    },
 	    
