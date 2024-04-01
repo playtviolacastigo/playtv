@@ -121,13 +121,7 @@
       }, 
 
 
-       {
-        "name": "DIRECTV 2 MPD",
-        "uri": "https://proxy.sintv.cl/py.php/https://1046-vos.dtvott.com/DASH/manifest.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=7ac053ce4a6c3786a71c23c36bfed028&key=b324da5a858840ee79ba4bc1df9ffd95",
-        "icono": "http://imgfz.com/i/zsUV8wc.png"
-      },
+    
      {
       
         "name": "DIRECTV 2",
