@@ -351,8 +351,24 @@
         "icono": "https://i.ibb.co/2W84yn1/ar-fox-sports-3-m.png"
       },
     
+      {
+        "name": "FOX SPORTS 1 MEXICO",
+        "uri": "https://gtechtecnologia.com/telelatino/play/24.m3u8",
   
-      
+        "icono": "https://yt3.googleusercontent.com/saqCezE3-cZgt4VCDs3sAcsNbRWK4xAIFHDOKx1_wgvQ-bDL-GNByw8OzIBIhLvgB1YvtdhHMD0=s900-c-k-c0x00ffffff-no-rj"
+      },
+          {
+        "name": "FOX SPORTS 2 MEXICO",
+        "uri": "http://stream.flynetwifi.com:1935/live/mobile-031/playlist.m3u8",
+  
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/1200px-2015_Fox_sports_logo.svg.png"
+      },
+	        {
+        "name": "FOX SPORTS 3 MEXICO",
+        "uri": "http://stream.flynetwifi.com:1935/live/mobile-108/playlist.m3u8",
+  
+        "icono": "https://cdn.mitvstatic.com/channels/mx_fox-sports-3_m.png"
+      },
       {
         "name": "ESPN MEXICO",
         "uri": "http://offshore.lat:8080/crueltv2023@/eY7x2kzuHt/262192",
