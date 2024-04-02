@@ -439,9 +439,19 @@
         "icono": "http://imgfz.com/i/5VtU0sy.png"
       },
       {
-        "name": "ESPN DEPORTES",
-        "uri": "http://offshore.lat:8080/crueltv2023@/eY7x2kzuHt/295699",
-        "icono": "http://imgfz.com/i/5VtU0sy.png"
+        "name": "ESPN MEXICO",
+        "uri": "https://gtechtecnologia.com/telelatino/play/27.m3u8",
+        "icono": "https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png"
+      },
+	      {
+        "name": "ESPN 2 MEXICO",
+        "uri": "https://gtechtecnologia.com/telelatino/play/28.m3u8",
+        "icono": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhowMUvHCdoTlP_Dm6UGp3w2xE6uGd0_lst7Xo8Tz64IJ9g3mcyCnZhVU3YJi7wPwXvd0QgmFX4d-6AOhiUiHNnO4I75hP2XJDYF5nwyLIrDvtYJ_OTzs26Ud6i2FmmFtPCp9OMvL2EKLjhgBhjI_8rYWNWbFYTeVzHXMeJguYeywgoN2unTqpCHJCp/s1600/espn2-mexico.png"
+      },
+	      {
+        "name": "ESPN 3 MEXICO",
+        "uri": "https://gtechtecnologia.com/telelatino/play/29.m3u8",
+        "icono": "https://onlinefutbollibre.com/wp-content/uploads/2023/10/ESPN-3-Mexico.webp"
       },
       {
         "name": "EVENTO 1",
@@ -459,6 +469,20 @@
         "icono": "https://www.prensa-latina.cu/wp-content/uploads/2023/07/messi-inter-miami.jpg"
       } 
     ]
+  },
+	  {
+    "name": "📺NOTICIEROS",
+    "samples": [
+      {
+        "name": "RCN",
+        "uri": "https://gtechtecnologia.com/telelatino/play/193.m3u8",
+        
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/a/a3/CanalRCN2023.png"
+      }
+  
+   
+   
+       ]
   },
   {
     "name": "⚽MUNDIAL ELIMINATORIAS SUDAMERICANAS 2026",
