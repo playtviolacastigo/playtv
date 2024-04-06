@@ -2697,7 +2697,24 @@
 	 {
     "name": "🇸🇦CANALES DE ARABIA SAUDITA",
    "samples": [
-      {
+        {
+        "name": "GOL PLAY TV 1",
+        "uri": "https://rpn3.bozztv.com/ssh101/ssh101/Df7QgFdP58Hi/playlist.m3u8",
+        "icono": "http://imgfz.com/i/qvczMVJ.png"
+      },
+    
+       {
+        "name": "GOL PLAY TV 2",
+        "uri": "https://rpn3.bozztv.com/ssh101/ssh101/qpKCy/playlist.m3u8",
+        "icono": "http://imgfz.com/i/NA9dfxy.png"
+	    },
+	    
+	    {
+        "name": "GOL PLAY TV 3",
+        "uri": "https://rpn3.bozztv.com/ssh101/ssh101/4kRQrv/playlist.m3u8",
+        "icono": "http://imgfz.com/i/C3M7PrV.png"
+	    },
+	 {
         "name": "BBC NEWS ARABIC",
         "uri": "https://vs-cmaf-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2.mpd",
         "icono": "https://yt3.googleusercontent.com/ytc/AIf8zZR2WzFBmrvUSNyPLkArm3Ixl0dwu5IdkKOoLlOWtMI=s900-c-k-c0x00ffffff-no-rj"
@@ -2804,23 +2821,7 @@
 	 {
     "name": "🇮🇳CANALES INDU",
     "samples": [
-	     {
-        "name": "GOL PLAY TV 1",
-        "uri": "https://rpn3.bozztv.com/ssh101/ssh101/Df7QgFdP58Hi/playlist.m3u8",
-        "icono": "http://imgfz.com/i/qvczMVJ.png"
-      },
-    
-       {
-        "name": "GOL PLAY TV 2",
-        "uri": "https://rpn3.bozztv.com/ssh101/ssh101/qpKCy/playlist.m3u8",
-        "icono": "http://imgfz.com/i/NA9dfxy.png"
-	    },
-	    
-	    {
-        "name": "GOL PLAY TV 3",
-        "uri": "https://rpn3.bozztv.com/ssh101/ssh101/4kRQrv/playlist.m3u8",
-        "icono": "http://imgfz.com/i/C3M7PrV.png"
-	    },
+	
 
       {
         "name": "ZEE NEWS",
