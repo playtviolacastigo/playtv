@@ -490,53 +490,21 @@
        ]
   },
   {
-    "name": "⚽MUNDIAL ELIMINATORIAS SUDAMERICANAS 2026",
+    "name": "⚽COPA DE PRIMERA E INTERMEDIA",
     "samples": [
       {
-        "name": "TV PUBLICA",
-        "uri": "https://chromecast.cvattv.com.ar/live/c6eds/Canal7/SA_Live_dash_enc/Canal7.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=cc8c82ac2ec7e9799527c29db7354e81&key=cc4aae173dd2ef17ae26be3f7ae87662",
-        "icono": "https://photobooth-api.onefootball.com/api/screenshot/%2Fv2%2Fphotobooth%2Fcms%2Fid%2F37133279"
+        "name": "RESISTENCIA VS PASTOREO 19:30",
+        "uri": "https://testphp07.alwaysdata.net/okru/7372399320789.m3u8",
+        
+        "icono": "https://i.ibb.co/DgQVt1m/Whats-App-Image-2024-04-08-at-14-20-16-1.jpg"
       },
       {
-        "name": "GEN TV ",
-        "uri": "https://edge2-ccast-sl.cvattv.com.ar/live/c7eds/GEN_TV/SA_Live_dash_enc/GEN_TV.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=49eb924ba998ca7fbbaee30dcef1ecb4&key=6e131b04b2e87598fb588ac205673698",
-        "icono": "https://photobooth-api.onefootball.com/api/screenshot/%2Fv2%2Fphotobooth%2Fcms%2Fid%2F37133279"
-      },
-      {
-        "name": "DIRECTV",
-        "uri": "https://whitemouseapple.com/1059-vos.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=3e1c0dd8d951335d9d8c534d29277c91&key=978f073eee32606a3f2544306fb1a7b3",
-        "icono": "https://photobooth-api.onefootball.com/api/screenshot/%2Fv2%2Fphotobooth%2Fcms%2Fid%2F37133279"
-      },
-      {
-        "name": "TV CARACOL",
-        "uri": "https://250weu.bozztv.com/ssh101/ssh101/chatytvgratis/chunks.m3u8",
-        "icono": "https://photobooth-api.onefootball.com/api/screenshot/%2Fv2%2Fphotobooth%2Fcms%2Fid%2F37133279"
-      },
-      {
-        "name": "AMERICA TV",
-        "uri": "https://channels123.futbolenvivo.xyz/stream/manifest.mpd?id=1011",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=b9fc5a15382b35818904ecbeed545fd0&key=8b4d83e2c382780ca615ce6cd6754d79",
-		"icono": "https://i.ibb.co/bPKWXGc/america.jpg"      
-      },
-      {
-        "name": "TV CARACOL OPC 2",
-        "uri": "https://video-weaver.bue01.hls.live-video.net/v1/playlist/CtQF9QKXRAVcmrQ2ISYK4EQ-eIDREKaGq_VPpFNBu45-WqADtJMPNNlrAU11xrdn6rxpBArf41BjlXYwAdXSA80PNzekaD_5W4VCLU6HfPu5bL8g7G9i3oh4ld4k-xd-_ZwPwPRonrc0AuzEXAHs_rkVC7uPTZ_oeX-XrlV9pjMsdNrneQAA7A79vCL8wbEZe4vErRNbUUcnMMedXbUy18OH2_n9ED6RIHY_DWqunSl1bl3bGI_Xbn43V2Gny80k52MRYcymy_jtOY7B0cMUQ_wmUMsmu5K3Ryl7hlZ7CUpPSDcv8QFslh5vLpxD0oO0wDxA-PGvpHAlLvrKKr_um32FmWSB4b-erpREg_4l9o-5tmCLkYapRvMCHK2rI2uuaqA3-eqc5B2-_sembs080s413uLKoaCYOgK6oqQJd9bR6sYfXqUbbv711GXwjdfAfRYduNmQPlZddk6g0x-9NYvOAVy-HntVtmS3KIJe7NwM-sbOcQhKZ6Gnnsu3NXgoDT-o0DJiSzINoRtj6PLZD6GCihgKG_ECozPO2lCJ52_ZXUFwCQHweOMDJyoUl9cKc8D1CfdUR1HQ1Fg3ich2m6ADEo7gkeVdxpoLr0D9BkBwRz4jLfCmpEyaSoSbHu3_5t9PQBXeuQPRNKUcMimp8kCmwktbUyDgg82yteVkNUrFEz6xHPnW_Fz1W-AOuk7onYpEmrDNLCTrb0YnrXL9h40iMazsMpXoSlaGn0j4qjJRtRayMcCmpFXlUYEH42x3wdjRueCVYZ1KcC7n8lNzkLw0r12eweppYxAI2bAKyp2G5pWDw08jL6fEvM4rdsHyQ1X-PpAb6UJOd1PkKHKcEFlckDexgEAPaFjDgkSWk-6cDk_t0wgSrJi558UNWVoj_v5b2XQbyPfVmzr-hl-wZVuX5Li0Xp7vgre38M6ueZhQV8N84hZieJNiQRMqPwHWGuki7nV8DBoMKUlcsDopSLm9di6DIAEqCXVzLWVhc3QtMjDcBw.m3u8",
-        "icono": "https://photobooth-api.onefootball.com/api/screenshot/%2Fv2%2Fphotobooth%2Fcms%2Fid%2F37133279"      
-      },
-      {
-        "name": "TYC SPORT",
-        "uri": "https://chromecast.cvattv.com.ar/live/c7eds/TyCSport/SA_Live_dash_enc/TyCSport.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=2b21c8fa9a329cce311a4c4a4aa996a1&key=cc23ea1fb32629f9e1f48c8deeae3e5b",
-        "icono": "https://photobooth-api.onefootball.com/api/screenshot/%2Fv2%2Fphotobooth%2Fcms%2Fid%2F37133279"
+        "name": "INDEPENDIENTE VS GUAIREÑA",
+        "uri": "https://testphp07.alwaysdata.net/okru/7372402597589.m3u8",
+    
+        "icono": "https://i.ibb.co/dK1L6G8/Whats-App-Image-2024-04-08-at-14-20-16.jpg"
       }
+   
        ]
   },
 	
