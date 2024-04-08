@@ -1953,16 +1953,8 @@
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=5d2731cf8a59b73438ef59d88cd882bf&key=3f412fa6368b7db4903588de695377e1",
         "icono": "https://i.ibb.co/NjymhsW/FFFF.jpg"
       },
-      {
-        "name": "TELEFUTURO OPC 2",
-        "uri": "https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(TELEFUTURO)/index.m3u8",
-        "icono": "https://i.ibb.co/NjymhsW/FFFF.jpg"
-      },
-	     {
-        "name": "HEI TV",
-        "uri": "https://www.desdepylabs.com/External/tvaccion/heitv",
-        "icono": "https://upload.wikimedia.org/wikipedia/commons/1/1a/HeiNetwork.jpg"
-      },
+ 
+
       {
         "name": "RPC",
         "uri": "https://chromecast.cvattv.com.ar/live/c4eds/RPC_C4/SA_Live_dash_enc/RPC_C4.mpd",
@@ -1970,16 +1962,8 @@
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=a8093cdcb2d504bd38f16764bd21b6e5&key=bfcf3b033b5f0b5ae020751a6746326f",
         "icono": "https://i.ibb.co/P4vyXPy/rpc-m.jpg"
       },
-      {
-        "name": "RPC OPC 2",
-        "uri": "https://tigocloudgen.desdeparaguay.net/trecetv/trecetv_baja/index.m3u8",
-        "icono": "https://i.ibb.co/P4vyXPy/rpc-m.jpg"
-      },
-       {
-        "name": "UNICANAL",
-        "uri": "https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(UNICANAL)/index.m3u8",
-        "icono": "https://i.ibb.co/MNv0hn2/Unicanal-en-vivo.jpg"
-      },
+    
+  
       {
         "name": "UNICANAL",
         "uri": "https://chromecast.cvattv.com.ar/live/c4eds/UNICANAL_C4/SA_Live_dash_enc_2A/UNICANAL_C4.mpd",
@@ -1993,11 +1977,7 @@
         "icono": "https://i.ibb.co/hfFmYXz/WW.jpg"
       },
 	
-      {
-        "name": "PARAGUAY TV CLARO",
-        "uri": "https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(PARAGUAY_TV)/index.m3u8",
-        "icono": "https://i.ibb.co/3zrDZgx/unnamed-1.jpg"
-      },
+
       {
         "name": "PARAGUAY TV FLOW",
         "uri": "https://chromecast.cvattv.com.ar/live/c7eds/Paraguay_TV/SA_Live_dash_enc/Paraguay_TV.mpd",
@@ -2005,11 +1985,7 @@
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=68a5bd6c58e6c05bacfd18d3feec31f2&key=ae23f8357512df2dfabcb8104b078182",
         "icono": "https://i.ibb.co/3zrDZgx/unnamed-1.jpg"
       },
-      {
-        "name": "CENTRAL TV PY",
-        "uri": "https://cloudtv.streaming.com.py/centraltv/centraltv/playlist.m3u8",
-        "icono": "https://i.ibb.co/f9C18r2/4l-N0-XLZz-400x400.jpg"
-      },
+
    
       {
         "name": "CANALPRO PY",
@@ -2030,11 +2006,7 @@
         "uri": "https://59ce1298bfb98.streamlock.net/mediosenpy/mediosenpy/chunklist_w1511497836.m3u8",
         "icono": "https://i.ibb.co/pZtCLv5/descarga-1.jpg"
       },
-      {
-        "name": "SURTV",
-        "uri": "https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(SUR_TV)/index.m3u8",
-        "icono": "https://cdn.mitvstatic.com/channels/116c52f1-8f55-4325-af6d-ab11f98e81d5_m.jpg"
-      },
+
       {
         "name": "ABC",
         "uri": "https://abc-color.cdn.vustreams.com/live/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851/live.isml/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851.m3u8",
@@ -2052,11 +2024,7 @@
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=8f66fe15735b2b1b3d5eb3646caa405e&key=404b93fd7b499b1061c9a714e1cdb2d0",
         "icono": "https://i.ibb.co/sgRZXh9/NPY-Noticias-Paraguay.png"
       },
-      {
-        "name": "PARAVISION 1",
-        "uri": "http://home-playtv.com:8080/live/restreamhome/HUvCLa351719/56703.m3u8",
-        "icono": "https://i.ibb.co/6w67s6W/descarga.jpg"
-      },
+    
       {
         "name": "PARAVISION 2",
         "uri": "https://chromecast.cvattv.com.ar/live/c4eds/PARAVISION_C4/SA_Live_dash_enc/PARAVISION_C4.mpd",
@@ -2064,11 +2032,7 @@
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=bd8e8c9b32ef027e8ff4ff0cfce855a4&key=2918e9893b570c3fa1f215b52a12cc91",
         "icono": "https://i.ibb.co/6w67s6W/descarga.jpg"
       },
-      {
-        "name": "C9N CLARO",
-        "uri": "https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(CN9)/index.m3u8",
-        "icono": "https://i.ibb.co/JvKr2dZ/C9N-LOGO.jpg"
-      },
+  
       {
         "name": "C9N FLOW",
         "uri": "https://chromecast.cvattv.com.ar/live/c5eds/C9N_C4/SA_Live_dash_enc/C9N_C4.mpd",
@@ -2076,26 +2040,18 @@
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=646700eeb14cadfa0543a20cf413d37e&key=4fc037c462023764624d8446442cbbca",
         "icono": "https://i.ibb.co/JvKr2dZ/C9N-LOGO.jpg"
       },
+  
       {
-        "name": "GENTV 1",
-        "uri": "https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(GEN_TV)/index.m3u8",
-        "icono": "https://i.ibb.co/6w67s6W/descarga.jpg"
-      },
-      {
-        "name": "GEN TV 2",
+        "name": "GEN TV ",
         "uri": "https://chromecast.cvattv.com.ar/live/c7eds/GEN_TV/SA_Live_dash_enc/GEN_TV.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=49eb924ba998ca7fbbaee30dcef1ecb4&key=6e131b04b2e87598fb588ac205673698",
         "icono": "https://i.ibb.co/k2XNPqR/channels4-profile.jpg"
       },
-       {
-        "name": "LA TELE 1",
-        "uri": "https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(LA_TELE)/index.m3u8",
-        "icono": "https://i.ibb.co/6w67s6W/descarga.jpg"
-      },
+  
       {
-        "name": "LA TELE 2",
-        "uri": "https://edge-live11-hr.cvattv.com.ar/live/c4eds/LA_TELE_C4/SA_Live_dash_enc_wl/LA_TELE_C4.mpd'",
+        "name": "LA TELE ",
+        "uri": "https://edge-mix02-ird.cvattv.com.ar/live/c4eds/LA_TELE_C4/SA_Live_dash_enc/LA_TELE_C4.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=7c6a481adf6a080ec09637d3f25989cf&key=036e343d636b821ab81838de387b62cb",
         "icono": "https://i.ibb.co/R7c5mZN/latele-1.jpg"
