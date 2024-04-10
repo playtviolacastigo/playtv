@@ -2559,7 +2559,22 @@
         "name": "GOL PLAY TV 3",
         "uri": "https://testphp07.alwaysdata.net/okru/7372400762581.m3u8",
         "icono": "https://i.ibb.co/pW2QXys/IMG-0600.jpg"
+	    },
+	   	          {
+        "name": "GOL PLAY TV 1 OPCION 2",
+        "uri": "https://cdnhd.iblups.com/hls/L9HUEEELBT.m3u8",
+        "icono": "https://i.ibb.co/pW2QXys/IMG-0600.jpg"
+      },
+	    
+	
+    
+       {
+        "name": "GOL PLAY TV 2 OPCION 2",
+        "uri": "https://cdnhd.iblups.com/hls/USP27A5IQE.m3u8",
+        "icono": "https://i.ibb.co/pW2QXys/IMG-0600.jpg"
 	    }
+	    
+	
 	   
     ]
   },
