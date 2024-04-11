@@ -1937,6 +1937,38 @@
  {
     "name": "🇧🇷BRASIL",
     "samples": [
+	    	          {
+        "name": "GOL PLAY TV 1 HD",
+        "uri": "https://testphp07.alwaysdata.net/okru/7372399320789.m3u8",
+        "icono": "https://i.ibb.co/CVr3QGv/fe7f8998db53725ac48f0deedc773692-anniversary-logo-visual-identity.jpg"
+      },
+	    
+	
+    
+       {
+        "name": "GOL PLAY TV 2",
+        "uri": "https://testphp07.alwaysdata.net/okru/7372402597589.m3u8",
+        "icono": "https://i.ibb.co/CVr3QGv/fe7f8998db53725ac48f0deedc773692-anniversary-logo-visual-identity.jpg"
+	    },
+	    
+	    {
+        "name": "GOL PLAY TV 3",
+        "uri": "https://testphp07.alwaysdata.net/okru/7372400762581.m3u8",
+        "icono": "https://i.ibb.co/CVr3QGv/fe7f8998db53725ac48f0deedc773692-anniversary-logo-visual-identity.jpg"
+	    },
+	   	          {
+        "name": "GOL PLAY TV 1 OPCION 2",
+        "uri": "https://cdnhd.iblups.com/hls/L9HUEEELBT.m3u8",
+        "icono": "https://i.ibb.co/CVr3QGv/fe7f8998db53725ac48f0deedc773692-anniversary-logo-visual-identity.jpg"
+      },
+	    
+	
+    
+       {
+        "name": "GOL PLAY TV 2 OPCION 2",
+        "uri": "https://cdnhd.iblups.com/hls/USP27A5IQE.m3u8",
+        "icono": "https://i.ibb.co/CVr3QGv/fe7f8998db53725ac48f0deedc773692-anniversary-logo-visual-identity.jpg"
+	    },
       {
         "name": "GLOBO BAHIA",
         "uri": "https://transcoder.proxy.tokplay.com.br/videos/REDEGLOBO/format720p_REDEGLOBO.m3u8",
@@ -2540,39 +2572,8 @@
         "name": "KUWAIT TV 1 HD",
         "uri": "https://kwmedia.hibridcdn.net/kwmedia/kwtv1_abr/kwmedia/kwtv1_1080p/chunks.m3u8?",
         "icono": "https://upload.wikimedia.org/wikipedia/fr/2/28/Ktv_1.png"
-        },
-	          {
-        "name": "GOL PLAY TV 1 HD",
-        "uri": "https://testphp07.alwaysdata.net/okru/7372399320789.m3u8",
-        "icono": "https://i.ibb.co/pW2QXys/IMG-0600.jpg"
-      },
-	    
-	
-    
-       {
-        "name": "GOL PLAY TV 2",
-        "uri": "https://testphp07.alwaysdata.net/okru/7372402597589.m3u8",
-        "icono": "https://i.ibb.co/pW2QXys/IMG-0600.jpg"
-	    },
-	    
-	    {
-        "name": "GOL PLAY TV 3",
-        "uri": "https://testphp07.alwaysdata.net/okru/7372400762581.m3u8",
-        "icono": "https://i.ibb.co/pW2QXys/IMG-0600.jpg"
-	    },
-	   	          {
-        "name": "GOL PLAY TV 1 OPCION 2",
-        "uri": "https://cdnhd.iblups.com/hls/L9HUEEELBT.m3u8",
-        "icono": "https://i.ibb.co/pW2QXys/IMG-0600.jpg"
-      },
-	    
-	
-    
-       {
-        "name": "GOL PLAY TV 2 OPCION 2",
-        "uri": "https://cdnhd.iblups.com/hls/USP27A5IQE.m3u8",
-        "icono": "https://i.ibb.co/pW2QXys/IMG-0600.jpg"
-	    }
+        }
+
 	    
 	
 	   
