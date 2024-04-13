@@ -365,12 +365,17 @@
     "name": "⚽COPA DE PRIMERA E INTERMEDIA",
     "samples": [
       {
-        "name": "TACUARY VS OLIMPIA",
+        "name": "TACUARY VS OLIMPIA 18:00",
         "uri": "https://cdnhd.iblups.com/hls/L9HUEEELBT.m3u8",
         
         "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZTwpovsmJBaAEvW-Qyc3uonDhilJG33JUYOewDEF1cw&s"
+      },
+    {
+        "name": "GENERAL CABALLERO VS NACIONAL 20:30",
+        "uri": "https://cdnhd.iblups.com/hls/L9HUEEELBT.m3u8",
+        
+        "icono": "https://tips.gg/es/match/general-caballero-vs-fc-nacional-asuncion-11-02-2023-09-00/poster/"
       }
-  
    
        ]
   },
