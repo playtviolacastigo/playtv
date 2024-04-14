@@ -366,13 +366,13 @@
     "samples": [
       {
         "name": "TACUARY VS OLIMPIA 18:00",
-        "uri": "https://cdnhd.iblups.com/hls/L9HUEEELBT.m3u8",
+        "uri": "https://cdnhd.iblups.com/hls/6YZ5NY6EZQ.m3u8",
         
         "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZTwpovsmJBaAEvW-Qyc3uonDhilJG33JUYOewDEF1cw&s"
       },
     {
         "name": "GENERAL CABALLERO VS NACIONAL 20:30",
-        "uri": "https://cdnhd.iblups.com/hls/L9HUEEELBT.m3u8",
+        "uri": "https://cdnhd.iblups.com/hls/6YZ5NY6EZQ.m3u8",
         
         "icono": "https://tips.gg/es/match/general-caballero-vs-fc-nacional-asuncion-11-02-2023-09-00/poster/"
       }
@@ -1955,7 +1955,7 @@
     "samples": [
 	    	          {
         "name": "LIVE 1 HD",
-        "uri": "https://testphp07.alwaysdata.net/okru/7372399320789.m3u8",
+        "uri": "https://cdnhd.iblups.com/hls/6YZ5NY6EZQ.m3u8",
         "icono": "https://i.ibb.co/CVr3QGv/fe7f8998db53725ac48f0deedc773692-anniversary-logo-visual-identity.jpg"
       },
 	    
@@ -1974,7 +1974,7 @@
 	    },
 	   	          {
         "name": "LIVE 1 OPCION 2",
-        "uri": "https://cdnhd.iblups.com/hls/L9HUEEELBT.m3u8",
+        "uri": "https://cdnhd.iblups.com/hls/6YZ5NY6EZQ.m3u8",
         "icono": "https://i.ibb.co/CVr3QGv/fe7f8998db53725ac48f0deedc773692-anniversary-logo-visual-identity.jpg"
       },
 	    
